@@ -1,0 +1,4 @@
+export GIO_MODULE_DIR=$SNAP/usr/lib/x86_64-linux-gnu/gio/modules
+
+cd $SNAP
+exec "$@"
