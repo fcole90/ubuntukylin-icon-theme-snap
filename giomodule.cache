@@ -1,1 +1,1 @@
-usr/lib/x86_64-linux-gnu/gio/modules/giomodule.cache
+libdconfsettings.so: gsettings-backend
